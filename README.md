@@ -9,6 +9,15 @@
 
 
 ---
+<div align="center">
+  <a href="https://amazeabhi.github.io/CRYPTO-DASHBROAD/">
+    <img src="https://img.shields.io/badge/LAUNCH_DASHBOARD-00d2ff?style=for-the-badge&logo=rocket&logoColor=white" width="400" alt="Launch Project">
+  </a>
+
+  <p><b>Click the button above to view the live market data dashboard!</b></p>
+</div>
+
+---
 
 ## 🌟 Features
 
