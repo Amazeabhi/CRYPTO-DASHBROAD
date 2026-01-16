@@ -33,7 +33,7 @@
 ## 🛠️ Technical Overview
 
 ### Architecture
-The application follows a **Vanilla Single Page Application (SPA)** architecture. It avoids heavy frameworks to maximize performance and minimize bundle size.
+The application follows a **Vanilla Single Page Application (SPA)** architecture. It avoids heavy frameworks to maximize performance and minimize bundle size
 
 
 
